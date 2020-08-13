@@ -1,4 +1,4 @@
-# covid-19 Update
+# Covid-19 Update
 
 A Covid-19 Tracker App made using Flutter Framework.
 
