@@ -1,10 +1,10 @@
-# covid
+# covid-19 Update
 
-A new Flutter application.
+A Covid-19 Tracker App made using Flutter Framework.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+
 
 A few resources to get you started if this is your first Flutter project:
 
